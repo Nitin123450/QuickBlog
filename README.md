@@ -32,4 +32,4 @@ A modern full-stack blogging platform where users can write, publish, and manage
 - Clerk (Authentication)
 
 # Author
-Khushi 
+Nitin 
